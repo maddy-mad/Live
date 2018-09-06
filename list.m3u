@@ -1,1 +1,29 @@
 #EXTM3U
+#EXTINF:-1 channel-id="501" tvg-name="DD Sports" tvg-logo="http://smumcdnems01.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="SPORTS", DD Sports
+http://125.17.105.168/PLTV/88888888/224/3221226346/04.m3u8
+#EXTINF:-1 channel-id="505" tvg-name="Dsports HD" tvg-logo="http://smumcdnems01.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png" group-title="SPORTS", DSport
+http://125.17.105.168/PLTV/88888888/224/3221226484/04.m3u8
+#EXTINF:-1 channel-id="506" tvg-name="Neo Prime" tvg-logo="http://smumcdnems01.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Neo_Prime.png" group-title="SPORTS", Neo Prime
+http://125.17.105.168/PLTV/88888888/224/3221225789/04.m3u8
+#EXTINF:-1 channel-id="507" tvg-name="Neo Sports" tvg-logo="http://smumcdnems01.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Neo_Sports.png" group-title="SPORTS", Neo Sports
+http://125.17.105.168/PLTV/88888888/224/3221225791/04.m3u8
+#EXTINF:-1 channel-id="508" tvg-name="Sony Six SD" tvg-logo="http://smumcdnems01.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="SPORTS", Sony Six
+http://125.17.105.168/PLTV/88888888/224/3221225827/04.m3u8
+#EXTINF:-1 channel-id="509" tvg-name="Sony_Six_HD" tvg-logo="http://smumcdnems01.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="SPORTS", Sony Six HD
+http://125.17.105.168/PLTV/88888888/224/3221225780/04.m3u8
+#EXTINF:-1 channel-id="510" tvg-name="Ten 1" tvg-logo="http://smumcdnems01.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="SPORTS", Sony Ten 1
+http://125.17.105.168/PLTV/88888888/224/3221225931/04.m3u8
+#EXTINF:-1 channel-id="511" tvg-name="Ten 1HD" tvg-logo="http://smumcdnems01.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="SPORTS", Sony Ten 1 HD
+http://125.17.105.168/PLTV/88888888/224/3221225875/04.m3u8
+#EXTINF:-1 channel-id="512" tvg-name="Ten 2" tvg-logo="http://smumcdnems01.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" group-title="SPORTS", Sony Ten 2
+http://125.17.105.168/PLTV/88888888/224/3221225932/04.m3u8
+#EXTINF:-1 channel-id="513" tvg-name="Ten2 HD" tvg-logo="http://smumcdnems01.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="SPORTS", Sony Ten 2 HD
+http://125.17.105.168/PLTV/88888888/224/3221226077/04.m3u8
+#EXTINF:-1 channel-id="514" tvg-name="Ten 3" tvg-logo="http://smumcdnems01.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" group-title="SPORTS", Sony Ten 3
+http://125.17.105.168/PLTV/88888888/224/3221225933/04.m3u8
+#EXTINF:-1 channel-id="515" tvg-name="Ten3 HD" tvg-logo="http://smumcdnems01.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="SPORTS", Sony Ten 3 HD
+http://125.17.105.168/PLTV/88888888/224/3221226330/04.m3u8
+#EXTINF:-1 channel-id="516" tvg-name="Sony ESPN SD" tvg-logo="http://smumcdnems01.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ESPN.png" group-title="SPORTS", Sony ESPN
+http://125.17.105.168/PLTV/88888888/224/3221225805/04.m3u8
+#EXTINF:-1 channel-id="517" tvg-name="Sony ESPN HD" tvg-logo="http://smumcdnems01.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_ESPN_HD.png" group-title="SPORTS", Sony ESPN HD
+http://125.17.105.168/PLTV/88888888/224/3221226076/04.m3u8
