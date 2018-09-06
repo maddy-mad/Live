@@ -27,3 +27,13 @@ http://125.17.105.168/PLTV/88888888/224/3221226330/04.m3u8
 http://125.17.105.168/PLTV/88888888/224/3221225805/04.m3u8
 #EXTINF:-1 channel-id="517" tvg-name="Sony ESPN HD" tvg-logo="http://smumcdnems01.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_ESPN_HD.png" group-title="SPORTS", Sony ESPN HD
 http://125.17.105.168/PLTV/88888888/224/3221226076/04.m3u8
+#EXTINF:-1 channel-id="518" tvg-name="Ten Golf HD" tvg-logo="http://smumcdnems01.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_Golf_HD.png" group-title="SPORTS", Sony Ten Golf HD
+0
+#EXTINF:-1 channel-id="520" tvg-name="Star_Sports_1" tvg-logo="http://smumcdnems01.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD_1.png" group-title="SPORTS", Star Sports 1 HD
+0
+#EXTINF:-1 channel-id="521" tvg-name="Star_Sports_2" tvg-logo="http://smumcdnems01.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD_2.png" group-title="SPORTS", Star Sports 2 HD
+0
+#EXTINF:-1 channel-id="523" tvg-name="Star_Sports_Select_HD1" tvg-logo="http://smumcdnems01.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_1.png" group-title="SPORTS", Star Sports Select 1 HD
+0
+#EXTINF:-1 channel-id="524" tvg-name="Star_Sports_Select_HD2" tvg-logo="http://smumcdnems01.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_2.png" group-title="SPORTS", Star Sports Select 2 HD
+0
