@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="101" tvg-name="PTC GOLD" tvg-logo="", PTC GOLD
+http://195.181.169.151:8080/ptcpunjabigold/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="PTC Music" tvg-logo="", PTC Music
+http://195.181.169.151:8080/ptc_music_pun/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="PTC Simran" tvg-logo="", PTC Simran
+http://195.181.169.151:8080/ptc_simran_pun/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="PTC Punjabi" tvg-logo="", PTC Punjabi
+http://195.181.169.151:8080/PTCPunjabi-punjabi/tracks-v1a1/mono.m3u8
