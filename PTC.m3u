@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="101" tvg-name="PTC News" tvg-logo="http://smumcdnems01.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/PTC_News.png", PTC News
-http://195.181.169.151:8080/PTCNews-punjabi/index.m3u8
+http://195.181.169.151:8080/PTCNews-punjabi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="102" tvg-name="PTC GOLD" tvg-logo="http://smumcdnems01.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Punjabi_Gold.png", PTC GOLD
 http://195.181.169.151:8080/ptcpunjabigold/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="103" tvg-name="PTC Simran" tvg-logo="http://smumcdnems01.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Simran.png", PTC Simran
