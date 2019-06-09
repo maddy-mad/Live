@@ -10,7 +10,7 @@ http://195.181.169.151:8080/PTCPunjabi-punjabi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="105" tvg-name="PTC Music" tvg-logo="http://smumcdnems01.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Music.png", PTC Music
 http://195.181.169.151:8080/ptc_music_pun/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="PTC Chak De" tvg-logo="http://smumcdnems01.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Chak_De.png", PTC Chak De
-http://195.181.169.151:8080/PTCChakDe-punjabi/index.m3u8
+http://195.181.169.151:8080/PTCChakDe-punjabi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="107" tvg-name="PTC DHOL TV" tvg-logo="http://smumcdnems01.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/PTC_DHOL_TV.png", PTC DHOL TV
 http://195
 #EXTINF:-1 tvg-id="108" tvg-name="Pitaara" tvg-logo="http://smumcdnems01.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Pitaara.png", Pitaara
