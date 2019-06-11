@@ -23,6 +23,6 @@ http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8
 http://175.176.184.11:1935/live/fatehtv/playlist.m3u8
 #EXTINF:-1 tvg-id="112" tvg-name="5aab TV" tvg-logo="http://www.5aabtv.ca/public/assets/frantend/images/newlogo.png", 5aab TV
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
-#EXTINF:-1 tvg-id="112" tvg-name="5aab Gurbani" tvg-logo="http://www.5aabtv.ca/public/assets/frantend/images/newlogo.png", 5aab Gurbani
+#EXTINF:-1 tvg-id="113" tvg-name="5aab Gurbani" tvg-logo="http://www.5aabtv.ca/public/assets/frantend/images/newlogo.png", 5aab Gurbani
 http://158.69.124.9:1935/5aabtv/5aabgurbani/playlist.m3u8
 
