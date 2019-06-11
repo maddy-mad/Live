@@ -19,6 +19,8 @@ https://sony247channels.akamaized.net/hls/live/2002597/chardikala/896.m3u8
 http://livepitaara.planetcast.in/pitaaraTV.m3u8
 #EXTINF:-1 tvg-id="110" tvg-name="GDNS Ludhiana" tvg-logo="http://www.pngall.com/wp-content/uploads/2016/06/Khanda-Free-Download-PNG.png", GDNS Ludhiana
 http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8
-#EXTINF:-1 tvg-id="111" tvg-name="5AAb TV" tvg-logo="http://www.5aabtv.ca/public/assets/frantend/images/newlogo.png", 5AAb TV
+#EXTINF:-1 tvg-id="111" tvg-name="Fateh TV" tvg-logo="http://smumcdnems01.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Fateh_TV.png", Fateh TV
+http://175.176.184.11:1935/live/fatehtv/playlist.m3u8
+#EXTINF:-1 tvg-id="112" tvg-name="5AAb TV" tvg-logo="http://www.5aabtv.ca/public/assets/frantend/images/newlogo.png", 5AAb TV
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 
