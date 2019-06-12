@@ -29,4 +29,8 @@ http://158.69.124.9:1935/5aabtv/5aabgurbani/playlist.m3u8
 http://jiocgwhub.jio.ril.com/JUS24x7/JUS24x7_800.m3u8
 #EXTINF:-1 tvg-id="115" tvg-name="Jus One" tvg-logo="http://smumcdnems01.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/JUSOne.png", Jus One
 http://jiocgwhub.jio.ril.com/JUSOne/JUSOne_800.m3u8
+#EXTINF:-1 tvg-id="116" tvg-name="Punjab De Rang (TS)" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tata_sky_in_punjab_de_rang.png", Punjab De Rang (TS)
+http://195.181.169.151:8080/PUNJAB_DE_RANG_USA_HD_PUN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="117" tvg-name="Punjabi Channel" tvg-logo="http://karytv.com/wp-content/uploads/2015/03/sn-punjabi-copy.jpg", Punjabi Channel
+http://live.galpunjabditv.com/GPDTVHD/tracks-v1a1/mono.m3u8
 
