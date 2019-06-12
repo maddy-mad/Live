@@ -25,4 +25,8 @@ http://175.176.184.11:1935/live/fatehtv/playlist.m3u8
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 #EXTINF:-1 tvg-id="113" tvg-name="5aab Gurbani" tvg-logo="http://www.5aabtv.ca/public/assets/frantend/images/newlogo.png", 5aab Gurbani
 http://158.69.124.9:1935/5aabtv/5aabgurbani/playlist.m3u8
+#EXTINF:-1 tvg-id="114" tvg-name="Jus Hindi HD" tvg-logo="http://smumcdnems01.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/JUS24x7.png", Jus Hindi HD
+http://jiocgwhub.jio.ril.com/JUS24x7/JUS24x7_800.m3u8
+#EXTINF:-1 tvg-id="115" tvg-name="Jus One" tvg-logo="http://smumcdnems01.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/JUSOne.png", Jus One
+http://jiocgwhub.jio.ril.com/JUSOne/JUSOne_800.m3u8
 
