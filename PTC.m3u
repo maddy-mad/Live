@@ -13,24 +13,26 @@ http://195.181.169.151:8080/ptc_music_pun/tracks-v1a1/mono.m3u8
 http://195.181.169.151:8080/PTCChakDe-punjabi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="107" tvg-name="PTC DHOL TV" tvg-logo="http://smumcdnems01.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/PTC_DHOL_TV.png", PTC DHOL TV
 http://195
-#EXTINF:-1 tvg-id="108" tvg-name="Chardikla TIME TV" tvg-logo="https://photos.wikimapia.org/p/00/01/05/02/84_big.jpg", Chardikla TIME TV
+#EXTINF:-1 tvg-id="108" tvg-name="MH1" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/India/MH_One_Music.png", MH1
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226114/index.m3u8
+#EXTINF:-1 tvg-id="109" tvg-name="Chardikla TIME TV" tvg-logo="https://photos.wikimapia.org/p/00/01/05/02/84_big.jpg", Chardikla TIME TV
 https://sony247channels.akamaized.net/hls/live/2002597/chardikala/896.m3u8
-#EXTINF:-1 tvg-id="109" tvg-name="Pitaara" tvg-logo="http://smumcdnems01.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Pitaara.png", Pitaara
+#EXTINF:-1 tvg-id="110" tvg-name="Pitaara" tvg-logo="http://smumcdnems01.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Pitaara.png", Pitaara
 http://livepitaara.planetcast.in/pitaaraTV.m3u8
-#EXTINF:-1 tvg-id="110" tvg-name="GDNS Ludhiana" tvg-logo="http://www.pngall.com/wp-content/uploads/2016/06/Khanda-Free-Download-PNG.png", GDNS Ludhiana
+#EXTINF:-1 tvg-id="111" tvg-name="GDNS Ludhiana" tvg-logo="http://www.pngall.com/wp-content/uploads/2016/06/Khanda-Free-Download-PNG.png", GDNS Ludhiana
 http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8
-#EXTINF:-1 tvg-id="111" tvg-name="Fateh TV" tvg-logo="http://smumcdnems01.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Fateh_TV.png", Fateh TV
+#EXTINF:-1 tvg-id="112" tvg-name="Fateh TV" tvg-logo="http://smumcdnems01.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Fateh_TV.png", Fateh TV
 http://175.176.184.11:1935/live/fatehtv/playlist.m3u8
-#EXTINF:-1 tvg-id="112" tvg-name="5aab TV" tvg-logo="http://www.5aabtv.ca/public/assets/frantend/images/newlogo.png", 5aab TV
+#EXTINF:-1 tvg-id="113" tvg-name="5aab TV" tvg-logo="http://www.5aabtv.ca/public/assets/frantend/images/newlogo.png", 5aab TV
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
-#EXTINF:-1 tvg-id="113" tvg-name="5aab Gurbani" tvg-logo="http://www.5aabtv.ca/public/assets/frantend/images/newlogo.png", 5aab Gurbani
+#EXTINF:-1 tvg-id="114" tvg-name="5aab Gurbani" tvg-logo="http://www.5aabtv.ca/public/assets/frantend/images/newlogo.png", 5aab Gurbani
 http://158.69.124.9:1935/5aabtv/5aabgurbani/playlist.m3u8
-#EXTINF:-1 tvg-id="114" tvg-name="Jus Hindi HD" tvg-logo="http://smumcdnems01.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/JUS24x7.png", Jus Hindi HD
+#EXTINF:-1 tvg-id="115" tvg-name="Jus Hindi HD" tvg-logo="http://smumcdnems01.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/JUS24x7.png", Jus Hindi HD
 http://jiocgwhub.jio.ril.com/JUS24x7/JUS24x7_800.m3u8
-#EXTINF:-1 tvg-id="115" tvg-name="Jus One" tvg-logo="http://smumcdnems01.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/JUSOne.png", Jus One
+#EXTINF:-1 tvg-id="116" tvg-name="Jus One" tvg-logo="http://smumcdnems01.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/JUSOne.png", Jus One
 http://jiocgwhub.jio.ril.com/JUSOne/JUSOne_800.m3u8
-#EXTINF:-1 tvg-id="116" tvg-name="Punjab De Rang (TS)" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tata_sky_in_punjab_de_rang.png", Punjab De Rang (TS)
+#EXTINF:-1 tvg-id="117" tvg-name="Punjab De Rang (TS)" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tata_sky_in_punjab_de_rang.png", Punjab De Rang (TS)
 http://195.181.169.151:8080/PUNJAB_DE_RANG_USA_HD_PUN/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="117" tvg-name="Punjabi Channel" tvg-logo="http://karytv.com/wp-content/uploads/2015/03/sn-punjabi-copy.jpg", Punjabi Channel
+#EXTINF:-1 tvg-id="118" tvg-name="Punjabi Channel" tvg-logo="http://karytv.com/wp-content/uploads/2015/03/sn-punjabi-copy.jpg", Punjabi Channel
 http://live.galpunjabditv.com/GPDTVHD/tracks-v1a1/mono.m3u8
 
