@@ -1,3 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="101" tvg-name="Mohammed Rafi Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/mohammed_rafi_250x350.jpg?selAppId=shemaroomusic", Mohammed Rafi Radio
 https://shemaroomusicradio.shemaroo.com/bollywoodmusic1/mohdrafi_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="102" tvg-name="Lata Mangeshkar Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/lata_mangeshkar_250x350.jpg?selAppId=shemaroomusic", Lata Mangeshkar Radio
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic/latamangeshkar_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="103" tvg-name="Kishore Kumar Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/kishore_kumar_250x350.jpg?selAppId=shemaroomusic", Kishore Kumar Radio
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic/kishorekumar_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="Asha Bhosle Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/asha_bhosle_250x350.jpg?selAppId=shemaroomusic", Asha Bhosle Radio
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic/ashabhosle_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="105" tvg-name="Udit Narayan Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/udit_narayan_250x350.jpg?selAppId=shemaroomusic", Udit Narayan Radio
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic1/uditnarayan_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="Abhijeet Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/abhijeet_250x350.jpg?selAppId=shemaroomusic", Abhijeet Radio
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic/abhijeet_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="107" tvg-name="Alka Yagnik Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/alka_yagnik_250x350.jpg?selAppId=shemaroomusic", Alka Yagnik Radio
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic/alkayagnik_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="108" tvg-name="Kumar Sanu Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/kumar_sanu_250x350.jpg?selAppId=shemaroomusic", Kumar Sanu Radio
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic1/kumarsanu_aac/playlist.m3u8
