@@ -1,17 +1,53 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="101" tvg-name="Mohammed Rafi Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/mohammed_rafi_250x350.jpg?selAppId=shemaroomusic", Mohammed Rafi Radio
+#EXTINF:-1 tvg-id="901" tvg-name="" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/Radio/FM_AIR_Gold_1001.jpg" group-title="RADIO", FM Gold
+http://airfmgold-lh.akamaihd.net/i/fmgold_1@507591/master.m3u8
+#EXTINF:-1 tvg-id="902" tvg-name="" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/Radio/FM_AIR_Rainbow_1026.png" group-title="RADIO", FM Rainbow
+http://fmrainbow-lh.akamaihd.net/i/fmrainbow_1@507812/master.m3u8
+#EXTINF:-1 tvg-id="903" tvg-name="" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/Radio/FM_All_India_Radio.png" group-title="RADIO", FM Punjabi
+http://airpunjabi-lh.akamaihd.net/i/airpunjabi_1@507822/master.m3u8
+#EXTINF:-1 tvg-id="904" tvg-name="" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/Radio/FM_Vividh_Bharati.png" group-title="RADIO", FM Vividh Bharati
+https://vividhbharati-lh.akamaihd.net/i/vividhbharati_1@507811/master.m3u8
+#EXTINF:-1 tvg-id="905" tvg-name="Mohammed Rafi Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/mohammed_rafi_250x350.jpg?selAppId=shemaroomusic", Mohammed Rafi Radio
 https://shemaroomusicradio.shemaroo.com/bollywoodmusic1/mohdrafi_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="102" tvg-name="Lata Mangeshkar Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/lata_mangeshkar_250x350.jpg?selAppId=shemaroomusic", Lata Mangeshkar Radio
+#EXTINF:-1 tvg-id="906" tvg-name="Lata Mangeshkar Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/lata_mangeshkar_250x350.jpg?selAppId=shemaroomusic", Lata Mangeshkar Radio
 https://shemaroomusicradio.shemaroo.com/bollywoodmusic/latamangeshkar_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="103" tvg-name="Kishore Kumar Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/kishore_kumar_250x350.jpg?selAppId=shemaroomusic", Kishore Kumar Radio
+#EXTINF:-1 tvg-id="907" tvg-name="Kishore Kumar Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/kishore_kumar_250x350.jpg?selAppId=shemaroomusic", Kishore Kumar Radio
 https://shemaroomusicradio.shemaroo.com/bollywoodmusic/kishorekumar_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="104" tvg-name="Asha Bhosle Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/asha_bhosle_250x350.jpg?selAppId=shemaroomusic", Asha Bhosle Radio
+#EXTINF:-1 tvg-id="908" tvg-name="Asha Bhosle Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/asha_bhosle_250x350.jpg?selAppId=shemaroomusic", Asha Bhosle Radio
 https://shemaroomusicradio.shemaroo.com/bollywoodmusic/ashabhosle_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="105" tvg-name="Udit Narayan Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/udit_narayan_250x350.jpg?selAppId=shemaroomusic", Udit Narayan Radio
+#EXTINF:-1 tvg-id="909" tvg-name="Udit Narayan Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/udit_narayan_250x350.jpg?selAppId=shemaroomusic", Udit Narayan Radio
 https://shemaroomusicradio.shemaroo.com/bollywoodmusic1/uditnarayan_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="Abhijeet Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/abhijeet_250x350.jpg?selAppId=shemaroomusic", Abhijeet Radio
+#EXTINF:-1 tvg-id="910" tvg-name="Abhijeet Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/abhijeet_250x350.jpg?selAppId=shemaroomusic", Abhijeet Radio
 https://shemaroomusicradio.shemaroo.com/bollywoodmusic/abhijeet_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="107" tvg-name="Alka Yagnik Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/alka_yagnik_250x350.jpg?selAppId=shemaroomusic", Alka Yagnik Radio
+#EXTINF:-1 tvg-id="911" tvg-name="Alka Yagnik Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/alka_yagnik_250x350.jpg?selAppId=shemaroomusic", Alka Yagnik Radio
 https://shemaroomusicradio.shemaroo.com/bollywoodmusic/alkayagnik_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="108" tvg-name="Kumar Sanu Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/kumar_sanu_250x350.jpg?selAppId=shemaroomusic", Kumar Sanu Radio
+#EXTINF:-1 tvg-id="912" tvg-name="Kumar Sanu Radio" tvg-logo="https://cdnwapdom.shemaroo.com/shemaroomusic/imagepreview/250x350/kumar_sanu_250x350.jpg?selAppId=shemaroomusic", Kumar Sanu Radio
 https://shemaroomusicradio.shemaroo.com/bollywoodmusic1/kumarsanu_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="913" tvg-name="" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/18.jpg" group-title="RADIO", Mirchi Top 20
+https://mt20live-lh.akamaihd.net/i/mt20live_1@346531/master.m3u8
+#EXTINF:-1 tvg-id="914" tvg-name="" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/5.jpg" group-title="RADIO", Club Mirchi
+https://clubmirchihdlive-lh.akamaihd.net/i/ClubMirchiHDLive_1_1@336269/master.m3u8
+#EXTINF:-1 tvg-id="915" tvg-name="" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/9.jpg" group-title="RADIO", Filmy Mirchi
+https://filmymirchihdliv-lh.akamaihd.net/i/FilmyMirchiHDLive_1_1@336266/master.m3u8
+#EXTINF:-1 tvg-id="916" tvg-name="" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/13.jpg" group-title="RADIO", Mirchi Yo! Punjabi
+https://yopunjabihdlive-lh.akamaihd.net/i/YoPunjabiHDLive_1_1@345454/master.m3u8
+#EXTINF:-1 tvg-id="917" tvg-name="" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/21.jpg" group-title="RADIO", Mirchi Inter Hitz
+https://hitzhls-lh.akamaihd.net/i/Hitz_HLS_1@177017/master.m3u8
+#EXTINF:-1 tvg-id="918" tvg-name="" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/1.jpg" group-title="RADIO", Mirchi English Love
+https://radioromancehdli-lh.akamaihd.net/i/RadioRomanceHDLive_1_1@334956/master.m3u8
+#EXTINF:-1 tvg-id="919" tvg-name="" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/17.jpg" group-title="RADIO", Mirchi Mehfil-e-Zhazal
+https://mirchimahfil-lh.akamaihd.net/i/MirchiMehfl_1@120798/master.m3u8
+#EXTINF:-1 tvg-id="920" tvg-name="" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/10.jpg" group-title="RADIO", Mirchi 90's
+https://pehlanashahdlive-lh.akamaihd.net/i/PehlaNashaHDLive_1_1@335229/master.m3u8
+#EXTINF:-1 tvg-id="921" tvg-name="" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/15.jpg" group-title="RADIO", Mirchi Pehla Nasha
+https://wmirchi-lh.akamaihd.net/i/WMIRCHI_1@75780/master.m3u8
+#EXTINF:-1 tvg-id="922" tvg-name="" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/2.jpg" group-title="RADIO", Meethi Mirchi
+https://meethimirchihdl-lh.akamaihd.net/i/MeethiMirchiHDLive_1_1@320572/master.m3u8
+#EXTINF:-1 tvg-id="923" tvg-name="" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/3.jpg" group-title="RADIO", Mirchi Hindi Retro
+https://puranijeanshdliv-lh.akamaihd.net/i/PuraniJeansHDLive_1_1@334555/master.m3u8
+#EXTINF:-1 tvg-id="924" tvg-name="" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/7.jpg" group-title="RADIO", Mirchi Rockistanh
+https://mirchirockistanh-lh.akamaihd.net/i/MirchiRockistanHDLiv_1_1@336273/master.m3u8
+#EXTINF:-1 tvg-id="925" tvg-name="" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/6.jpg" group-title="RADIO", Mirchi Indies
+https://meethimirchihdl-lh.akamaihd.net/i/MirchiEdgeHDLive_1_1@336272/master.m3u8
+#EXTINF:-1 tvg-id="925" tvg-name="" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/8.jpg" group-title="RADIO", Mirchi Devraag
+https://devraaghdlive-lh.akamaihd.net/i/DevraagHDLive_1_1@336268/master.m3u8
