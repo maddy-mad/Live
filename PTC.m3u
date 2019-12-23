@@ -15,7 +15,7 @@ https://streaming.ptcplay.com/chakdeIn/smil:Live.smil/playlist.m3u8
 https://streaming.ptcplay.com/dholtvIn/smil:Live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="108" tvg-name="MH1" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/India/MH_One_Music.png", MH1
 http://cshms3.airtel.tv/PLTV/88888888/224/3221226114/index.m3u8
-#EXTINF:-1 tvg-id="109" tvg-name="Chardikla TIME TV" tvg-logo="https://photos.wikimapia.org/p/00/01/05/02/84_big.jpg", Chardikla TIME TV
+#EXTINF:-1 tvg-id="109" tvg-name="Chardikla TIME TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Chardikla_Time_TV.png", Chardikla TIME TV
 https://sony247channels.akamaized.net/hls/live/2002597/chardikala/896.m3u8
 #EXTINF:-1 tvg-id="110" tvg-name="Pitaara" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pitaara.png", Pitaara
 http://livepitaara.planetcast.in/pitaaraTV.m3u8
