@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="101" tvg-name="PTC News" tvg-logo="http://smumcdnems01.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/PTC_News.png", PTC News
-http://195.181.169.151:8080/PTCNews-punjabi/tracks-v1a1/mono.m3u8
+https://streaming.ptcplay.com/newsIn/smil:Live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="102" tvg-name="PTC GOLD" tvg-logo="http://smumcdnems01.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Punjabi_Gold.png", PTC GOLD
-http://195.181.169.151:8080/ptcpunjabigold/tracks-v1a1/mono.m3u8
+https://streaming.ptcplay.com/goldIn/smil:Live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="103" tvg-name="PTC Simran" tvg-logo="http://smumcdnems01.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Simran.png", PTC Simran
-http://195.181.169.151:8080/ptc_simran_pun/tracks-v1a1/mono.m3u8
+https://streaming.ptcplay.com/simranIn/smil:Live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="104" tvg-name="PTC Punjabi" tvg-logo="http://smumcdnems01.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Punjabi.png", PTC Punjabi
 http://195.181.169.151:8080/PTCPunjabi-punjabi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="105" tvg-name="PTC Music" tvg-logo="http://smumcdnems01.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Music.png", PTC Music
-http://195.181.169.151:8080/ptc_music_pun/tracks-v1a1/mono.m3u8
+https://streaming.ptcplay.com/musicIn/smil:Live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="PTC Chak De" tvg-logo="http://smumcdnems01.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Chak_De.png", PTC Chak De
-http://195.181.169.151:8080/PTCChakDe-punjabi/tracks-v1a1/mono.m3u8
+https://streaming.ptcplay.com/chakdeIn/smil:Live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="107" tvg-name="PTC DHOL TV" tvg-logo="http://smumcdnems01.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/PTC_DHOL_TV.png", PTC DHOL TV
 http://195
 #EXTINF:-1 tvg-id="108" tvg-name="MH1" tvg-logo="https://raw.githubusercontent.com/maddy-mad/TV_Logos/master/India/MH_One_Music.png", MH1
