@@ -1,2 +1,2 @@
 # Live
-Live channels links which are available freely on the Internet.
+Links which are available freely on the internet.
