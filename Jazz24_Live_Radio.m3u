@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="" tvg-logo="https://images.weserv.nl/?url=https://d31wsou9chh9ss.cloudfront.net/0/mobile/images/1572898637/3358/300/200/PlayerLogo.png&w=376&h=288&t=letterbox&bg=black" group-title="Jazz", Jazz 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
+https://live.wostreaming.net/playlist/ppm-jazz24mp3-ibc1.m3u
